@@ -53,4 +53,9 @@
     - Adresse de la première machine : 172.16.1.129
     - Adresse de la dernière machine : 172.16.1.158
 
+## Exercice 2. Preparartion de l'environnement
+
+
+
+
 
