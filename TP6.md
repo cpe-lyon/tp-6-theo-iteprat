@@ -11,43 +11,43 @@
     - Sous-réseau 7 : 25 machines
 
 
-- Sous-réseau 1 : VLSM
+- Sous-réseau 1 : VLSM (rappels)
     - Adresse de sous-réseau : 172.16.0.0/26
     - Adresse de broadcast :  172.16.0.63
     - Adresse de la première machine : 172.16.0.1
     - Adresse de la dernière machine : 172.16.0.62
     
-- Sous-réseau 2 : VLSM
+- Sous-réseau 2 : VLSM (rappels)
     - Adresse de sous-réseau : 172.16.0.64/26
     - Adresse de broadcast :  172.16.0.127
     - Adresse de la première machine : 172.16.0.65
     - Adresse de la dernière machine : 172.16.0.126
     
-- Sous-réseau 3 : VLSM
+- Sous-réseau 3 : VLSM (rappels)
     - Adresse de sous-réseau : 172.16.0.128/26
     - Adresse de broadcast :  172.16.0.191
     - Adresse de la première machine : 172.16.0.129
     - Adresse de la dernière machine : 172.16.0.190
     
-- Sous-réseau 4 : VLSM
+- Sous-réseau 4 : VLSM (rappels)
     - Adresse de sous-réseau : 172.16.0.192/26
     - Adresse de broadcast : 172.16.0.255
     - Adresse de la première machine : 172.16.0.193
     - Adresse de la dernière machine : 172.16.0.254
     
-- Sous-réseau 5 : VLSM
+- Sous-réseau 5 : VLSM (rappels)
     - Adresse de sous-réseau : 172.16.1.0/26
     - Adresse de broadcast :  172.16.1.63
     - Adresse de la première machine : 172.16.1.1
     - Adresse de la dernière machine : 172.16.1.62
     
-- Sous-réseau 6 : VLSM
+- Sous-réseau 6 : VLSM (rappels)
     - Adresse de sous-réseau : 172.16.1.64/26
     - Adresse de broadcast : 172.16.1.127
     - Adresse de la première machine : 172.16.1.65
     - Adresse de la dernière machine : 172.16.1.126
     
-- Sous-réseau 7 : VLSM
+- Sous-réseau 7 : VLSM (rappels)
     - Adresse de sous-réseau : 172.16.1.128/27
     - Adresse de broadcast : 172.16.1.159
     - Adresse de la première machine : 172.16.1.129
