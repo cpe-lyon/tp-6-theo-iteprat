@@ -11,7 +11,7 @@
     - Sous-réseau 7 : 25 machines
 
 
-- Sous-réseau 1 : VLSM 
+## Sous-réseau 1 : VLSM 
     - Adresse de sous-réseau : 172.16.0.0/26
     - Adresse de broadcast :  172.16.0.63
     - Adresse de la première machine : 172.16.0.1
